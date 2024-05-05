@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m @Sankar-Joishy.
-- 👀 I’m pursuing a computer science degree.
+- 👋 Hi there, I’m Sankar-Joishy.
+- 👀 I developed my passion for coding and so pursuing a computer science degree.
 - 🌱 I’m currently mastering AI | ML & FullStack.
 - 💞️ I’m looking to collaborate on Data Science projects.
 
